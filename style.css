@@ -1,0 +1,10 @@
+h1, h2 {
+    text-align: center;
+}
+
+.xmlHTTP, .fetch {
+    width: 400px;
+    margin: 0 auto;
+    border: 2px solid green;
+    padding: 10px;
+} 
